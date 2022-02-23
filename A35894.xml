@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between the D. of C. and the D. of P. at their meeting in Paris, with the ghost of Jane Shore</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35894</idno>
+            <idno type="STC">Wing D1328</idno>
+            <idno type="STC">ESTC R19239</idno>
+            <idno type="EEBO-CITATION">11759677</idno>
+            <idno type="OCLC">ocm 11759677</idno>
+            <idno type="VID">48647</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35894)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48647)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 488:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between the D. of C. and the D. of P. at their meeting in Paris, with the ghost of Jane Shore</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Smith,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cleveland, Barbara Villiers Palmer, --  Duchess of, 1641-1709.</term>
+               <term>Shore, Jane, d. 1527?</term>
+               <term>Kéroualle, Louise-Renée de, --  Duchess of Portsmouth and Aubigny, 1649-1734.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:48647:1"/>
+            <pb facs="tcp:48647:1" rendition="simple:additions"/>
+            <head>A DIALOGUE between the <hi>D.</hi> of <hi>C.</hi> and the <hi>D.</hi> of <hi>P.</hi> at their meeting in PARIS, With the Ghoſt of <hi>Jane ſhore.</hi>
+            </head>
+            <sp>
+               <speaker>C.</speaker>
+               <l>ARt thou return'd my ſiſter Concubine,</l>
+               <l>For all thoſe ſubtle Cunning Arts of thine.</l>
+               <l>With which thou didſt ſubdue our Monarchs heart</l>
+               <l>And would'ſt not let me with thee ſhare a part.</l>
+               <l>Tho my great beauty did that heart ſubdue,</l>
+               <l>Long ere it could ſo meanly ſtoop to you?</l>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>I am return'd to ſee my native <hi>France,</hi>
+               </l>
+               <l>The place where firſt I ſaw the world by Chance.</l>
+               <l>Tho mean by Birth, yet Fortune this can do,</l>
+               <l>Help by the charms of Wit and Beauty too,</l>
+               <l>Me thinks my Port and my illuſtrious Traine,</l>
+               <l>Should rather move your envy than Diſdaine,</l>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <l>My envy! no thy meanneſs I diſpiſe.</l>
+               <l>Thou art a Begger ſtill tho in diſguiſe.</l>
+               <l>The noble Ladys of the Gallick Court,</l>
+               <l>Will mock at your fine gaudy Train and Port,</l>
+               <l>Thy Convers and thy Company they'l ſcorn,</l>
+               <l>Since thou of Genteel Blood was't never born.</l>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>The King's Example Dutches you will find,</l>
+               <l>Shall make the Ladys of this Court more kind,</l>
+               <l>For many ſervices for him I'ave done,</l>
+               <l>Which he I'm ſure with Kindneſs now will own.</l>
+               <l>I'ave ſerv'd him with my perſon and my Wit,</l>
+               <l>But how, to tell you Madam, 'tis not fit.</l>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <l>If you have ought for this great Monarch done,</l>
+               <l>He'l make you then ſome Abbleſs or a Nun.</l>
+               <l>For I do find 'tis not the guiſe of <hi>France</hi>
+               </l>
+               <l>Their Whores to noble Titles to advance</l>
+               <l>But Uſually the Royal Miſs is ſent,</l>
+               <l>To ſome Religious Cloyſtor to repent.</l>
+            </sp>
+            <pb facs="tcp:48647:2"/>
+            <pb n="2" facs="tcp:48647:2" rendition="simple:additions"/>
+            <sp>
+               <speaker>P.</speaker>
+               <l>It is not yet that time of Day with me,</l>
+               <l>Nor am I fallen to ſo low degree;</l>
+               <l>More joyful days I yet do hope to ſee.</l>
+               <l>Tho I have here of Engliſh Guinies ſtore,</l>
+               <l>I thither will return, and get me more.</l>
+               <l>
+                  <hi>England</hi> will me a plenteous Harveſt Yield,</l>
+               <l>Here to buy Lands and Palaces to Build.</l>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <l>Methinks you talk at an immodeſt rate,</l>
+               <l>Thou <hi>French</hi> She-Horſe-leech of the <hi>Engliſh</hi> ſtate</l>
+               <l>
+                  <hi>Rome</hi> us'd to draw its richeſt Treaſures thence</l>
+               <l>The <hi>Engliſh</hi> Gold was chang'd to <hi>Peters</hi> pence:</l>
+               <l>But now that <hi>Rome</hi> can draw from thence no more</l>
+               <l>It is En<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anſed by a <hi>Gallick <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>If I'm immodeſt me thinks you are Vain,</l>
+               <l>This Id<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of my riches to Complain:</l>
+               <l>
+                  <hi>England</hi> did once to you an Harveſt Yield,</l>
+               <l>Alas! I'ave but the gleanings of the field.</l>
+               <l>Gold fell into your Lap with a ſpring tide,</l>
+               <l>But you have ſpent it on your Luſt and Pride;</l>
+               <l>Your time is paſt the Luſt has made you old,</l>
+               <l>And to be ſerv'd you now muſt give your gold.</l>
+               <l>Or fumble with ſome weak old Clergy man</l>
+               <l>To get a ſpill your royet to maintain.</l>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <l>O Madam you muſt needs be very chaſt</l>
+               <l>If as they ſay the prior you embrac'd</l>
+               <l>I Laugh to hear of Chaſtity from you</l>
+               <l>As if a Whore was E're to one man true.</l>
+               <l>I own my nature it is brave and high,</l>
+               <l>With <hi>Meſſalina</hi> I my ſelf could Vie.</l>
+               <l>Let a dull Husband ly with her that's chaſt</l>
+               <l>I by a Prince am fit to be embrac'd.</l>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>Brag not, your decay'd beauty is grown ſtale,</l>
+               <l>And all your Arts no longer can prevail.</l>
+               <l>I yet retain my glorious Conquering Charms.</l>
+               <l>Whilſt you are baniſh'd from a Monarchs Arms</l>
+               <l>Alas your Beauty now is in the waine</l>
+               <l>No Art Can e're renew that Face again,</l>
+               <l>Madam the ſhining glories are all ſet</l>
+               <l>Which makes you thus at the ſucceſſor fret.</l>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <l>Dull tool, my eyes yet ſparkle and are good,</l>
+               <l>I feel a vigorous <hi>May</hi> yet in my blood,</l>
+               <l>I'm ſound and free from any foul diſeaſe,</l>
+               <l>Can warm a Lover and know how to pleaſe.</l>
+               <l>Whilſt thou Corrupted ſcents the very room</l>
+               <l>In ſpite of Eſſences and ſtrang perfume.</l>
+               <l>I can't but wonder by what Magick Art</l>
+               <l>Thou e're could'ſt Conquer a great Monarchs heart,</l>
+               <l>That babys Face of thine? and thoſe black eyes,</l>
+               <l>Me thinks ſhould ne'r an Heroes Love ſurpriſe.</l>
+               <l>None that are had eyes e're ſaw in that French face</l>
+               <l>O're much of Beauty form or Comly grace.</l>
+            </sp>
+            <pb facs="tcp:48647:3"/>
+            <pb n="3" facs="tcp:48647:3"/>
+            <sp>
+               <speaker>P.</speaker>
+               <l>You are my Rival and may me diſpiſe</l>
+               <l>But Lovers ſee not with your envious eyes.</l>
+               <l>If you in beauty have the greateſt ſhare,</l>
+               <l>And if that mine cannot with yours Compare</l>
+               <l>My wit exceeds and yours have prov'd but ill,</l>
+               <l>Since you'r Caſt off and <hi>I</hi> am Courted ſtill.</l>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <l>When I did raign I like a Queen did ſhow,</l>
+               <l>I ſat above and ſaw Crown'd heads below,</l>
+               <l>Of Jewels and of Gold I had ſuch ſtore,</l>
+               <l>I knew not how to ſeek or wiſh for more.</l>
+               <l>To me the Idols of the Court all bow'd,</l>
+               <l>I was adored by the numerous Croud.</l>
+               <l>Till thou wert ſeen who with ſome Magic ſpell,</l>
+               <l>Some charm or philtre that was made in Hell;</l>
+               <l>Didſt my great Heroes heart then ſteal away,</l>
+               <l>And took by hell bred Arts my Beauties Prey.</l>
+               <l>This be my comfort <hi>I</hi> did firſt ſubdue,</l>
+               <l>They were my Leavings that were ſhar'd to you.</l>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>It ſhows my Wit and Beauty had moſt power,</l>
+               <l>When I ſubdu'd your mighty Conquerour,</l>
+               <l>And that <hi>I</hi> broke into your Beauties Charms,</l>
+               <l>And raviſhed your Hero from your Arms.</l>
+               <l>I'ave rul'd as well as you and my <hi>French</hi> pate,</l>
+               <l>Have div'd into the great intreagues of State</l>
+               <l>In Balls and Maſques you revel'd out your nights,</l>
+               <l>But Madam <hi>I</hi> did reliſh ſtate delights,</l>
+               <l>My politiques and Arts were deeper Bred,</l>
+               <l>Than ever came into your ſhallow Head,</l>
+               <l>Vain Pride and pleaſure were the things you ſought,</l>
+               <l>Whilſt that four Kingdoms did imploy my thought.</l>
+               <l>States men did know that you were but a fool,</l>
+               <l>But they from me took Meaſures how to Rule.</l>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <l>And yet <hi>I</hi> ſee you are turnd off at laſt,</l>
+               <l>And all your cunning policies Miſplac'd.</l>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>You are deceiv'd, and I ſhall make you mourn,</l>
+               <l>When you ſhall ſee me Madam back return</l>
+               <l>Mind you your pleaſures game your time away,</l>
+               <l>My buſineſs will not let me log er ſtay.</l>
+               <l>To our great Monarch I have much to ſay.</l>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <l>If back to <hi>England</hi> thou ſhouldſt e're return,</l>
+               <l>May thou become the common Peoples ſcorn.</l>
+               <l>May againſt thee the <hi>London</hi> Prentiſe riſe,</l>
+               <l>And may they pull out thy bewitching eyes.</l>
+               <l>Againſt that time I will go learn to Curſe,</l>
+               <l>That <hi>Pox</hi> or <hi>Plague</hi> I'le wiſh thee ſomething worſe.</l>
+               <l>What ſpector's this!</l>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <l>O Heav'ns what have we here!</l>
+               <l>My Joynts do tremble and my ſoul doth fear.</l>
+               <l>The <hi>Ghoſt</hi> of <hi>Jane ſhore</hi> to them</l>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <l>Perhaps you know me not, yet take a view,</l>
+               <l>See what <hi>I</hi> am, I was once ſuch as you</l>
+               <l>
+                  <hi>I</hi> was a whore a Royal Miſtreſs too.</l>
+               <pb facs="tcp:48647:4"/>
+               <pb n="4" facs="tcp:48647:4"/>
+               <l>
+                  <hi>I</hi> was a woman of Egregious fame</l>
+               <l>And like you two <hi>I</hi> gloried in my ſhame</l>
+               <l>
+                  <hi>Edward</hi> my Lord was, and <hi>Jane ſhore</hi> my name.</l>
+               <l>
+                  <hi>I</hi> liv'd in ſplendor and enjoy'd delights,</l>
+               <l>Feaſted all day and in Loves luſcious rights,</l>
+               <l>Between a Monarchs Armes wore out the Nights.</l>
+               <l>But when at laſt my happy Monarch dy'd,</l>
+               <l>
+                  <hi>I</hi> loſt my Riches Pleaſures and my Pride,</l>
+               <l>And all that ere was ſweet or good beſide.</l>
+               <l>Alas, remember what of me became,</l>
+               <l>My honour ſtain'd and black was all my fame,</l>
+               <l>Scorn of the People to my ſelf a ſhane.</l>
+               <l>A wretch <hi>I</hi> grew wiſh'd <hi>I</hi> were never born,</l>
+               <l>Poor and Contemn'd and every Raſcals ſcorn,</l>
+               <l>Unpitied dy'd moſt wretched and forlorn.</l>
+               <l>But happy had <hi>I</hi> been had this been all,</l>
+               <l>Or if that <hi>I</hi> had had no farther fall,</l>
+               <l>But Hell on my miſdeeds aloud did call.</l>
+               <l>Tormented in the flames of Hell below,</l>
+               <l>No eaſe from Torment pain and endleſs woe</l>
+               <l>For pleaſures paſt my ſcorched ſoul doth know.</l>
+               <l>Short were my pleaſures while <hi>I</hi> lived here,</l>
+               <l>And thoſe were alſo mixt with grief and fear</l>
+               <l>But pain Eternal's in the lower ſphear.</l>
+               <l>You two great Women great in luſt and ſin</l>
+               <l>Repent, repent, and to reform begin,</l>
+               <l>For your reward you Hell at laſt will win:</l>
+               <l>Rivals look on me and Contend no more,</l>
+               <l>What you are now I once was long before,</l>
+               <l>Yet I am damn'd altho' a Royal Whore.</l>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed for <hi>J. Smith.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
